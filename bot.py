@@ -12,7 +12,7 @@ from answer import answer
 from database import init_db, add_request
 
 
-TOKEN = "7869224004:AAEj_4T5MfwprMuCsFU5nNimfcQPYdoYnes"
+TOKEN = ""
 
 CHOOSE_DEPT, WRITE_MESSAGE = range(2)
 
